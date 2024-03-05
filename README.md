@@ -2,5 +2,6 @@
 
 I'm Giovanni!
 --
-- Artificial Intelligence Master at [Politecnico di Milano](https://www.polimi.it/)
-- Intern at [MLCube](https://www.mlcube.com/home_2/)
+- ML Engineer at [MLCube](https://www.mlcube.com/home_2/)
+- Master Degree in Artificial Intelligence at [Politecnico di Milano](https://www.polimi.it/)
+- Bachelor Degree in Computer Science and Automation Engineering at [Università Politecnica delle Marche](https://www.univpm.it/Entra/)
