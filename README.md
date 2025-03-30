@@ -13,3 +13,9 @@ I'm Giovanni!
 - 🔌 [`polars-argpartition`](https://github.com/GiovanniGiacometti/polars-argpartition): A Polars plugin that implements argpartition (aka kth-element) in Polars.
 - 🏃 [`light-strava-client`](https://github.com/GiovanniGiacometti/light-strava-client): a simple, hackable and streamlined [Strava](https://www.strava.com/) client.
 - 👾 [`intesa-vincente-llm`](https://github.com/GiovanniGiacometti/intesa-vincente-llm): play [Intesa Vincente](https://it.wikipedia.org/wiki/Reazione_a_catena_-_L%27intesa_vincente) with an LLM
+
+### Latest Blog Post
+
+- [I wrote a Polars plugin - and it's easier than you think](https://giovannigiacometti.github.io/posts/polars-plugin/)
+- [A Python repository template, based on uv and Just](https://giovannigiacometti.github.io/posts/python-template/)
+- [Hackapizza 2025: the write-up of my first Hackathon](https://giovannigiacometti.github.io/posts/hackathon/)
