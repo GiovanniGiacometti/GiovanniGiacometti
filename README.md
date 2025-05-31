@@ -8,10 +8,11 @@ I'm Giovanni!
 
 ### Projects
 
+- 🎢​ [`ml3-drift`](https://github.com/ml-cube/ml3-drift): open source, easy-to-embed drift detectors.
 - 🐻‍❄️ [`polars-vector-store`](https://github.com/GiovanniGiacometti/polars-vector-store): a proof of concept of using Polars as a Vector Database.
 - 📜 [`python-repo-template`](https://github.com/GiovanniGiacometti/python-repo-template): a Python template repository, featuring Just and uv.
 - 🔌 [`polars-argpartition`](https://github.com/GiovanniGiacometti/polars-argpartition): A Polars plugin that implements argpartition (aka kth-element) in Polars.
-- 🏃 [`light-strava-client`](https://github.com/GiovanniGiacometti/light-strava-client): a simple, hackable and streamlined [Strava](https://www.strava.com/) client.
+- 🏃 [`strava-client`](https://github.com/GiovanniGiacometti/strava-client): a simple, hackable and streamlined [Strava](https://www.strava.com/) client.
 - 👾 [`intesa-vincente-llm`](https://github.com/GiovanniGiacometti/intesa-vincente-llm): play [Intesa Vincente](https://it.wikipedia.org/wiki/Reazione_a_catena_-_L%27intesa_vincente) with an LLM
 
 ### Latest Blog Post
