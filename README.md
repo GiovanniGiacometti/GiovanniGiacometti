@@ -13,7 +13,7 @@ I'm Giovanni!
 - 📜 [`python-repo-template`](https://github.com/GiovanniGiacometti/python-repo-template): a Python template repository, featuring Just and uv.
 - 🔌 [`polars-argpartition`](https://github.com/GiovanniGiacometti/polars-argpartition): A Polars plugin that implements argpartition (aka kth-element) in Polars.
 - 🏃 [`strava-client`](https://github.com/GiovanniGiacometti/strava-client): a simple, hackable and streamlined [Strava](https://www.strava.com/) client.
-- 🔍🏃 [`strava-marimo-analyzer`](https://github.com/GiovanniGiacometti/strava-marimo-analyzer): a Marimo notebook to explore your [Strava](https://www.strava.com/) running activities. A WASM based web-app is available [here](https://giovannigiacometti.it/strava-marimo-analyzer/).
+- 🔍 [`strava-marimo-analyzer`](https://github.com/GiovanniGiacometti/strava-marimo-analyzer): a Marimo notebook to explore your [Strava](https://www.strava.com/) running activities. A WASM based web-app is available [here](https://giovannigiacometti.it/strava-marimo-analyzer/).
 - 👾 [`intesa-vincente-llm`](https://github.com/GiovanniGiacometti/intesa-vincente-llm): play [Intesa Vincente](https://it.wikipedia.org/wiki/Reazione_a_catena_-_L%27intesa_vincente) with an LLM
 
 ### Latest Blog Post
